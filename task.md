@@ -18,4 +18,17 @@
 
 ![alt text](image.png)
 
-<img src ="img.jpg"alt ="image" width="150">
+<img src ="img.jpg" alt ="image" width="150">
+
+<mark> This text is highlighted <mark>
+
+<b> MIT</b>
+
+<i> Thandavapura </i>
+
+
+
+
+
+
+
